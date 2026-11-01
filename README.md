@@ -19,5 +19,5 @@ _Coming soon. I'm building out my portfolio, so check back for:_
 
 ## Get in touch
 
-- LinkedIn: _add your link_
+- LinkedIn: [linkedin.com/in/davidbenami](https://www.linkedin.com/in/davidbenami/)
 - Email: davidb31@gmail.com
